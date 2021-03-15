@@ -2,7 +2,7 @@
 
 Ports Used : **_3000_**
 
-## Flask w/ Docker compose
+## React w/ Docker compose
 
 ### Written by Kyle Halek
 
